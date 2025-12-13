@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Labeling Operations",
+  "description": "A production-grade human-in-the-loop data labeling platform. Integrates AI agents for pre-labeling, strict QA workflows, and productivity analytics for labeling agencies.",
+  "requestFramePermissions": []
+}
